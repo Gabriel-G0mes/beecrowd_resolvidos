@@ -1,4 +1,4 @@
-# 🧠 Beecrowd – Exercícios Resolvidos em Java
+# 🧠 Exercícios Resolvidos em Java
 
 Este repositório contém minhas soluções para os exercícios da plataforma **Beecrowd**, desenvolvidas em **Java**, com foco no aprendizado de **lógica de programação**, **estrutura de controle**, **entrada e saída de dados** e **boas práticas básicas da linguagem**.
 
