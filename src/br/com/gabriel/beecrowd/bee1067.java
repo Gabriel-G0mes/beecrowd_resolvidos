@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class bee1067 {
     public static void main(String[] args) {
+
         Scanner input = new Scanner(System.in);
 
         int x = input.nextInt();
