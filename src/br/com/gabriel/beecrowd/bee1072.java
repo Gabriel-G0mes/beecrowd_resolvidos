@@ -8,7 +8,7 @@ public class bee1072 {
         int N = input.nextInt();
         int out = 0;
         int in = 0;
-        int X = 0;
+        int X;
 
         for(int i=0; i<N; i++) {
             X = input.nextInt();
