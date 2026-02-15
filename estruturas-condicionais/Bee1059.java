@@ -1,5 +1,3 @@
-package br.com.gabriel.beecrowd;
-
 public class Bee1059 {
     public static void main(String[] args) {
 

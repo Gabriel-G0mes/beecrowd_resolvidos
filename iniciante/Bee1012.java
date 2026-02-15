@@ -1,4 +1,3 @@
-package br.com.gabriel.beecrowd;
 import java.util.Locale;
 import java.util.Scanner;
 
